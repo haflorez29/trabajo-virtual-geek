@@ -1,0 +1,11 @@
+.b, .a {
+  padding: 1%;
+  color: white;
+  background-color: black;
+  border: black;
+  border-radius: 10%;
+}
+
+.opacity {
+  opacity: 0.5;
+}

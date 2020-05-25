@@ -1,0 +1,2 @@
+const ipsum = document.querySelector('p')
+ipsum.addEventListener('mouseover', ()=> ipsum.innerHTML = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum at recusandae repellat sit, facere corrupti iusto velit rem dolore eum alias cum reprehenderit adipisci, provident dolorem molestiae officiis molestias porro!')
